@@ -15,8 +15,8 @@ I’m passionate about building applications that help people improve in somethi
 <br>
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)]([(https://portfolio.buzzboy.org/)]) 
-[![OtherGitHub Account](https://img.shields.io/badge/Portfolio-Website-blue)]([http])) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)]([https://portfolio.buzzboy.org/]) 
+[![OtherGitHub Account](https://img.shields.io/badge/Portfolio-Website-blue)]([https://github.com/Flamenquito21])) 
 
 
 
