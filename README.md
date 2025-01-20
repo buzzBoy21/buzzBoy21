@@ -1,5 +1,6 @@
 # Building applications to improve people's lives. 🚀🚀
-
+I’m passionate about building applications that help people improve in something meaningful. Whether it’s making tasks easier, enhancing productivity, or providing new learning opportunities, I aim to create solutions that make a real difference in people’s lives.
+---
 # Technologies
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
