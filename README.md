@@ -12,10 +12,11 @@ I’m passionate about building applications that help people improve in somethi
 <img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-<br/>
+</br>
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)]([https://portfolio.buzzboy.org/])
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat-square)](https://github.com/tu-nueva-cuenta) Nueva cuenta de GitHub
 
 
 
